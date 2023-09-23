@@ -1,6 +1,7 @@
 # Barb_Studio
 
 This is the Normal random website .It is the types of hair cut and provides a way to contact us
+
 <h2>Installation</h2>
 <h4>Clone the repository: git clone https://github.com/Akshat162001/Studio_Barber</h4>
 
