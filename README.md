@@ -9,6 +9,7 @@ This is the Normal random website .It is the types of hair cut and provides a wa
 <h2>Navigate to the project directory..</h2>
 
 <p>Open index.html in your web browser</p>
+
 We welcome all contributions to that can make this website more attractive and improve user experience. If you would like to contribute follow these steps:<br>
 <h2>Fork the repository</h2>
 
