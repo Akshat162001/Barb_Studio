@@ -13,6 +13,7 @@ This is the Normal random website .It is the types of hair cut and provides a wa
 We welcome all contributions to that can make this website more attractive and improve user experience. If you would like to contribute follow these steps:<br>
 <h2>Fork the repository</h2>
 
+
 <p>Create a new branch: git checkout -b feature/your-feature-name</p>
 <p>Make your changes and commit them: git commit -m 'Add some feature'</p>
 <p>Push to the branch: git push origin feature/your-feature-name</p>
