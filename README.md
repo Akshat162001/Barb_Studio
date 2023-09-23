@@ -5,6 +5,7 @@ This is the Normal random website .It is the types of hair cut and provides a wa
 <h2>Installation</h2>
 <h4>Clone the repository: git clone https://github.com/Akshat162001/Studio_Barber</h4>
 
+
 <h2>Navigate to the project directory..</h2>
 
 <p>Open index.html in your web browser</p>
